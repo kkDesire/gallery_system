@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef693d2c-fb44-44b1-a520-66e6c1c22c46" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ProjectId" id="1Xytr17Y5mNcoas2Lewbbb6Th0p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/wamp64/www/dev_app_UICI" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\gallery\admin" />
+      <recent name="C:\xampp\htdocs\gallery\admin\includes" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\gallery\admin" />
+      <recent name="C:\xampp\htdocs\gallery\admin\js" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef693d2c-fb44-44b1-a520-66e6c1c22c46" name="Default Changelist" comment="" />
+      <created>1582030356658</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582030356658</updated>
+      <workItem from="1582030359167" duration="1000000" />
+      <workItem from="1582035563216" duration="28967000" />
+      <workItem from="1582095961629" duration="1282000" />
+      <workItem from="1582278769364" duration="23400000" />
+      <workItem from="1582551042889" duration="10971000" />
+      <workItem from="1582624820868" duration="35260000" />
+      <workItem from="1582973289457" duration="623000" />
+      <workItem from="1583091101497" duration="16372000" />
+      <workItem from="1583149612376" duration="25339000" />
+      <workItem from="1583186375592" duration="176000" />
+      <workItem from="1583313649631" duration="178000" />
+      <workItem from="1583527426062" duration="1675000" />
+      <workItem from="1583570387608" duration="4539000" />
+      <workItem from="1583577088335" duration="10275000" />
+      <workItem from="1583753483732" duration="1914000" />
+      <workItem from="1583939990424" duration="96000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="78" key="FileChooserDialogImpl" timestamp="1583940087251">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="413" y="78" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1583940087251" />
+    <state width="623" height="498" key="SwitcherDM" timestamp="1582554121914">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="623" height="498" key="SwitcherDM/0.0.1366.768@0.0.1366.768" timestamp="1582554121914" />
+    <state x="313" y="161" key="com.intellij.ide.util.TipDialog" timestamp="1582973299018">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="313" y="161" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1582973299018" />
+    <state x="237" y="43" width="875" height="663" key="recent.locations.popup" timestamp="1583577546679">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="237" y="43" width="875" height="663" key="recent.locations.popup/0.0.1366.768@0.0.1366.768" timestamp="1583577546679" />
+    <state x="365" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1582049511233">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="365" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.768@0.0.1366.768" timestamp="1582049511233" />
+    <state x="262" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1583152871321">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="262" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1583152871321" />
+  </component>
+</project>
